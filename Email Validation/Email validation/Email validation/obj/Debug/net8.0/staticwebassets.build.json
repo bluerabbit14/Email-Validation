@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "kcyve+LU+2LTjvYLMtsEjASFpMEq/9o03v8keaW+Jeo=",
+  "Source": "EmailValidationAPI",
+  "BasePath": "_content/EmailValidationAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

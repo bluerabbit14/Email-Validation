@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "EmailValidationAPI.Controllers.EmailController",
+    "Method": "ValidateEmail",
+    "RelativePath": "api/Email/validate",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
